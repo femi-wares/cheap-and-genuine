@@ -1,2 +1,5 @@
-# cheap-and-genuine
-Cheap and Genuine Nig. Ltd. — Laptops, household, cars. Affordable quality ALWAYS. Akure.
+# Cheap and Genuine Nig. Ltd.
+
+Demo storefront (PWA) — laptops, household essentials, cars.
+
+Order: https://wa.link/ejltj7

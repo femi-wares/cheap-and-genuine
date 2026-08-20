@@ -1,0 +1,11 @@
+{
+  "name": "Cheap and Genuine Nig. Ltd.",
+  "short_name": "Cheap & Genuine",
+  "description": "Laptops, household essentials, cars — affordable quality ALWAYS. Akure.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F0FDFA",
+  "theme_color": "#0F766E",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
